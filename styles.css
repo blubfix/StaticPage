@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: slategray;
+  }
+  
+  h2 {
+    text-align: center;
+    color: lightskyblue;
+  }
+  
+  p {
+    text-align: justify;
+    margin: 10px;
+    color: black;
+  }
+
+  img {
+      margin: auto;
+  }
