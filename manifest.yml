@@ -1,0 +1,5 @@
+applications:
+ - name: elegant-perlman
+   memory: 256M
+   host: elegant-perlman
+   buildpack: staticfile_buildpack
