@@ -1,5 +1,5 @@
 applications:
- - name: elegant-perlman
+ - name: lucid-nightingale
    memory: 256M
-   host: elegant-perlman
+   host: lucid-nightingale
    buildpack: staticfile_buildpack

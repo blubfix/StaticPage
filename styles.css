@@ -15,5 +15,11 @@ h1 {
   }
 
   img {
-      margin: auto;
+
+      margin-left: 45%;
+  }
+  
+
+  body {
+    background-image: url(https://images.unsplash.com/photo-1553474157-5f29a57c167f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3400&q=80);
   }
